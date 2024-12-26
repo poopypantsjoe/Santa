@@ -1,0 +1,6 @@
+{
+  "name": "Santa Token",
+  "symbol": "SNTA",
+  "description": "Test Santa Token.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
